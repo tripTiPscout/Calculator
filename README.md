@@ -1,5 +1,5 @@
 # Calculator
-Simple Java Calculator
+Cosole Java Calculator
 
 Using Java to create a simple calculator with basics four operations +, -, *, / and MS ana MR for memory data operations. Will be added additional math operations like power of and square root.
 
